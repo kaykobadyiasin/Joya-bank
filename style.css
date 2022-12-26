@@ -1,0 +1,48 @@
+body{
+    padding: 70px;
+}
+.bank_title{
+    text-transform: uppercase;
+    font-size: 40px;
+    font-weight: bold;
+}
+.submit_area{
+    margin-top: 50px;
+    padding: 40px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 10px gray;
+}
+#transaction_area{
+    display: none;
+}
+.stutas{
+    margin: 0 20px;
+    padding: 20px;
+    border-radius: 5px;
+    color: white;
+    text-align: center;
+}
+.stutas h5{
+    font-size: 30px;
+    font-weight: 700;
+}
+.stutas h2{
+    font-weight: 600;
+}
+.deposit{
+    background-color: slateblue;
+}
+.withdraw{
+    background-color: tomato;
+}
+.balance{
+    background-color: green;
+}
+.bank_hed{
+    margin-top: 20px;
+    margin-bottom: 40px;
+    font-weight: 700;
+}
+.hed{
+    text-align: center;
+}
